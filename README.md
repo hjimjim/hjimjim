@@ -12,7 +12,7 @@
 ## 🔨 Technology Stacks
 
 - Cloud : 
-  <span><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
