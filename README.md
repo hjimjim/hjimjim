@@ -12,7 +12,7 @@
 ## Visit Me 
 
 📝 Portfolio Website - <a href="https://hjimjim.github.io">Here</a>
-[![image](https://raw.githubusercontent.com/hjimjim/hjimjim.github.io/main/imgs/intro.jpg?token=AB4AOMVRDM47AQYSFC7CUATDVGT2G)](https://hjimjim.github.io)
+[![image](https://raw.githubusercontent.com/hjimjim/hjimjim.github.io/main/imgs/intro.jpg?token=GHSAT0AAAAAAB4XPP6WFINPPL5H7OFBM6ZEY5JWZSQ)](https://hjimjim.github.io)
 
 
 ## 🔨 Technology Stacks
