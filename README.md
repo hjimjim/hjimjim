@@ -15,11 +15,11 @@
   <span><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/VMware-#607078?style=flat&logo=vmware&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/></span>
   
 - System:
   <span><img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Apache%20Kafka-#231F20?style=flat&logo=apachekafka&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></span>
   <span><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/></span>
