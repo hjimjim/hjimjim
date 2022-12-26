@@ -19,3 +19,7 @@
   <span><img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat&logo=bitbucket&logoColor=white"/></span><br/>
 - Communication : <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Confluence-0052cc?style=flat&logo=confluence&logoColor=white"/></span>
+  
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=hjimjim&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=hjimjim&layout=compact&theme=dracula)
+
