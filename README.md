@@ -11,13 +11,16 @@
 
 ## Worked At
 TossPayments
-<img src="https://user-images.githubusercontent.com/7866162/209556644-6c5d51b4-fce3-4d60-8fe1-ce3208b1af3a.png"  width="100" height="100"/>
+
+<img src="https://user-images.githubusercontent.com/7866162/209556644-6c5d51b4-fce3-4d60-8fe1-ce3208b1af3a.png"  width="40" height="40"/>
 
 SK Inc.
-<img src="https://user-images.githubusercontent.com/7866162/209556659-eff41b61-7d11-4475-9a08-714bccd5cfdf.png"  width="100" height="100"/>
+
+<img src="https://user-images.githubusercontent.com/7866162/209556659-eff41b61-7d11-4475-9a08-714bccd5cfdf.png"  width="40" height="40"/>
 
 Gurum Networks
-<img src="https://user-images.githubusercontent.com/7866162/209556669-aa23c4c3-418d-4df5-b833-dec4553d4116.png"  width="100" height="100"/>
+
+<img src="https://user-images.githubusercontent.com/7866162/209556669-aa23c4c3-418d-4df5-b833-dec4553d4116.png"  width="40" height="40"/>
 
 
 
