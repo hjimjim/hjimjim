@@ -9,6 +9,12 @@
 - Computer Science and Engineering (CSE)
 - jimjim.heo@gmail.com
 
+## Visit Me 
+
+📝 Portfolio Website - <a href="https://hjimjim.github.io">Here</a>
+[![image](https://raw.githubusercontent.com/hjimjim/hjimjim.github.io/main/imgs/intro.jpg?token=AB4AOMVRDM47AQYSFC7CUATDVGT2G)](https://hjimjim.github.io)
+
+
 ## 🔨 Technology Stacks
 
 - Cloud : 
