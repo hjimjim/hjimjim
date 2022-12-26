@@ -20,6 +20,7 @@
   <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></span>
   <span><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white"/></span>
   
 - Backend : 
   <span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/></span>
