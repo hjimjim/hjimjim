@@ -9,11 +9,15 @@
 - Computer Science and Engineering (CSE)
 - jimjim.heo@gmail.com
 
-## Visit Me 
+## Worked At
+TossPayments
+[![toss_logo](https://user-images.githubusercontent.com/7866162/209556644-6c5d51b4-fce3-4d60-8fe1-ce3208b1af3a.png)](https://www.tosspayments.com/)
 
-📝 Portfolio Website - <a href="https://hjimjim.github.io">Here</a>
+SK Inc.
+[![sk_logo](https://user-images.githubusercontent.com/7866162/209556659-eff41b61-7d11-4475-9a08-714bccd5cfdf.png)](https://sk-inc.com/kr/main/mainpage.aspx)
 
-[![image](https://raw.githubusercontent.com/hjimjim/hjimjim.github.io/main/imgs/intro.jpg?token=GHSAT0AAAAAAB4XPP6WFINPPL5H7OFBM6ZEY5JWZSQ)](https://hjimjim.github.io)
+Gurum Networks
+[![gurum_logo](https://user-images.githubusercontent.com/7866162/209556669-aa23c4c3-418d-4df5-b833-dec4553d4116.png)]
 
 
 ## 🔨 Technology Stacks
@@ -57,6 +61,14 @@
   <span><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Confluence-0052cc?style=flat&logo=confluence&logoColor=white"/></span>
+
+
+## Visit Me 
+
+📝 Portfolio Website - <a href="https://hjimjim.github.io">Here</a>
+
+[![intro](https://user-images.githubusercontent.com/7866162/209556696-a7385f14-c9ef-4627-a9f7-87183f8a2cf3.jpg)](https://hjimjim.github.io)
+
   
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=hjimjim&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=hjimjim&layout=compact&theme=dracula)
