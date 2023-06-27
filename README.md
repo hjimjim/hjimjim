@@ -3,6 +3,7 @@
 ## 🙋‍♂️ Personal Info
 
 - Jimin Heo
+- on my way to a Master's in Data Science at UCI
 - Computer Science and Engineering (CSE)
 - jimjim.heo@gmail.com
 
