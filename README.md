@@ -3,9 +3,8 @@
 ## 🙋‍♂️ Personal Info
 
 - Jimin Heo
-- on my way to a Master's in Data Science at UCI
-- Computer Science and Engineering (CSE)
-- jimjim.heo@gmail.com
+- I'm a Ph.D. student studying generative models, with a focus on diffusion models and variational inference.
+- Advisor: [Erik B. Sudderth](https://www.ics.uci.edu/~sudderth/), University of California, Irvine.
 
 ## 📂 Worked At
 <img src="https://user-images.githubusercontent.com/7866162/209556644-6c5d51b4-fce3-4d60-8fe1-ce3208b1af3a.png"  width="20" height="20"/> TossPayments  2021 - 2022
