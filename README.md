@@ -13,7 +13,9 @@
 
 <img src="https://user-images.githubusercontent.com/7866162/209556669-aa23c4c3-418d-4df5-b833-dec4553d4116.png"  width="20" height="20"/> Gurum Networks  2016 - 2017
 
+## Visit Me 
 
+📝 Website - <a href="https://jimin-heo.github.io">Here</a>
 
 ## 🔨 Technology Stacks
 
@@ -58,11 +60,8 @@
   <span><img src="https://img.shields.io/badge/Confluence-0052cc?style=flat&logo=confluence&logoColor=white"/></span>
 
 
-## Visit Me 
 
-📝 Portfolio Website - <a href="https://hjimjim.github.io">Here</a>
 
-[![intro](https://user-images.githubusercontent.com/7866162/209556696-a7385f14-c9ef-4627-a9f7-87183f8a2cf3.jpg)](https://hjimjim.github.io)
 
   
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=hjimjim&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
